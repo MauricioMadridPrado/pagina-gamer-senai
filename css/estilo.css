@@ -2,12 +2,59 @@
 
 
 /*Conteudo principal*/
+main{
+    min-height: 500px;
 
+}
+.navbar-brand img{
+    width: 100px;
+}
 
 /*banner*/
+#section-banners img{
+    height: 500px;
+}
+
+
 
 /*Produtos vendidos*/
+
+#section-vendidos{
+    text-align: center;
+
+}
+#section-vendidos h2{
+    font-weight: bold;
+    padding: 20px;
+
+}
+
+#section-vendidos img{
+    height: 300px;
+    border-radius: 10px;
+
+}
+#section-vendidos .card {
+    margin: 5px;
+    border: 1px solid #ccc;
+    border: 10px;
+}
+#section-vendidos .preco {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+}
+
 /*Rodapé*/
+
+footer{
+    text-align: center;
+}
+
+footer p {
+    font-weight: bold;
+    padding: 10px;
+}
 
 /*Botão Voltar topo*/
 
